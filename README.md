@@ -1,5 +1,5 @@
 # CRM Database WebApp
-This is the Customer Realtionship Management application built with Spring MVC and Hibernate. App runs basic CRUD operations with high speed. You can notice some CSS and Javascript magic here and there. 
+This is the Customer Realtionship Management application built with Spring MVC and Hibernate. App neatly performs basic CRUD operations with high speed while being connected to MySQL database. You can notice some CSS and Javascript magic here and there. 
 
 Although app is looking good it is not a final product yet. Upcoming updates include Aspect Oriented Programming, Spring Security and more. 
 
